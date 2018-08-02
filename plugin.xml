@@ -78,6 +78,7 @@
         <framework src="lib/ios/BraintreeDropIn.framework" custom="true" embed="true" weak="false" />
         <framework src="lib/ios/BraintreePayPal.framework" custom="true" embed="true" weak="false" />
         <framework src="lib/ios/BraintreeDataCollector.framework" custom="true" embed="true" weak="false" />
+	<framework src="lib/ios/BraintreePaymentFlow.framework" custom="true" embed="true" weak="false" />
         <framework src="lib/ios/BraintreeCore.framework" custom="true" embed="true" weak="false" />
         <framework src="lib/ios/BraintreeCard.framework" custom="true" embed="true" weak="false" />
         <framework src="lib/ios/BraintreeApplePay.framework" custom="true" embed="true" weak="false" />
